@@ -1,10 +1,10 @@
 # 博客
 
-这是我折腾的地方，偶见原创，偶见抄袭，不做声明，不准乱搞。
+测试博客专栏。
 
 ```
 println "This"
-echo "is"
+echo "is not"
 puts "my"
 print("territory")
 ```
